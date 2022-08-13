@@ -14,4 +14,4 @@
 * Plugins
 * Demos
 
-[Check if out](./fluentd/introduction/readme.md)
+[Check it out](./fluentd/introduction/readme.md)
